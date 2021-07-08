@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-fantastic",
+  "version": "1.0.0",
+  "description": "A page with NodeJS basic and fantastic.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tronghieu60s/nodejs-fantastic.git"
+  },
+  "keywords": [
+    "nodejs",
+    "basic",
+    "fantastic"
+  ],
+  "author": "Trong Hieu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tronghieu60s/nodejs-fantastic/issues"
+  },
+  "homepage": "https://github.com/tronghieu60s/nodejs-fantastic#readme"
+}
